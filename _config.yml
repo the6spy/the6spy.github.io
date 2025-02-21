@@ -1,6 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+plugins:
+  - jemoji
 
 title: Theodoros Spyridopoulos # the website title (if blank, full name will be used instead)
 first_name: Theodoros
