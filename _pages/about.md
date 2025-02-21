@@ -2,33 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='https://profiles.cardiff.ac.uk/staff/spyridopoulost'>Cardiff University, Cardiff, UK</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 5.67</p>
+    <p>Abacws Building</p>
+    <p>Senghennydd Road, Cathays </p>
+    <p>Cardiff, CF24 4AG </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Senior Lecturer in the School of Computer Science and Informatics at Cardiff University, where I have been a member of the Cybersecurity group since June 2022. I also serve as the Deputy Leader of the Cybersecurity Lab, contributing to research, industry collaborations, and student mentorship in the field. My expertise spans Artificial Intelligence and Cybersecurity, with a particular focus on Federated Learning and securing decentralised, large-scale systems, such as the Internet of Things and Smart Cities. I am also a member of the <a href='https://edgeaihub.co.uk'>National Edge AI Hub</a>, a collaborative initiative dedicated to advancing Edge Computing and AI security. My research interests include cybersecurity modelling for complex systems, utilising techniques such as game theory, epidemiological modelling, viable system modelling, and system dynamics to develop resilient and adaptive security solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining Cardiff University, I gained industry experience at Toshiba Research Europe in Bristol and Airbus in Newport, where I led cybersecurity research strategies and contributed to high-impact projects in the domain like "CAVShield", a feasibility study funded by Innovate UK, and "SWAN: Secure Wireless Agile Networks", a collaborative project with the University of Bristol and "SYNERGIA", an InnovateUK funded project around end-to-end security in large-scale IoT applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My academic journey also includes a tenure at the University of the West of England, where my dedication to teaching earned me the Best Teacher of the Year award for the 2018-2019 academic year.
+
+Last but not least, I enjoy photography, travelling and watching anime. :smile:
